@@ -122,15 +122,12 @@ const PlaceholderIdea = `<template>
 			którzy chcą być fizykami.
 		</Section>
 		<Section>
-			Obecnie dostępne lub planowane są 3 tomy. Ich priorytet jest taki, jak
+			Obecnie dostępne lub planowane są serie dotyczące różnych przedmiotów,
+			również tych specjalistycznych. Ich priorytet jest taki, jak
 			kolejność, w której je podałem, dlatego, jeśli np. coś nie jest
 			wytłumaczone w serii o elektronice to na pewno było wytłumaczone w serii o
-			fizyce lub matematyce. Są one następujące:
-			<ul>
-				<li>Matematyka</li>
-				<li>Fizyka</li>
-				<li>Elektronika</li>
-			</ul>
+			fizyce lub matematyce. 
+
 		</Section>
 		<Section>
 			Jeśli chcesz, również możesz dołożyć swoją cegiełkę do projektu — zgłosić
